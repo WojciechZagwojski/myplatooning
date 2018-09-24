@@ -1,0 +1,31 @@
+{
+  "name": "alenprovider",
+  "version": "1.0.0",
+  "description": "Provider for the information sent by the ALEN ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "diamantis.ververis@de.bosch.com",
+  "license": "ISC",
+  "dependencies": {
+    "babel-polyfill": "^6.26.0",
+    "body-parser": "^1.18.2",
+    "dotenv": "^5.0.1",
+    "express": "^4.16.2",
+    "fs": "0.0.1-security",
+    "iota.crypto.js": "^0.4.2",
+    "iota.lib.js": "^0.4.7",
+    "jsonfile": "^4.0.0",
+    "mam.client.js": "git+https://git@github.com/iotaledger/mam.client.js.git",
+    "mongodb": "^3.0.2",
+    "pify": "^4.0.0",
+    "request": "^2.83.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://zaw4abt@sourcecode.socialcoding.bosch.com/scm/bhsw/pothole.detection.iota.js.git"
+  }
+}

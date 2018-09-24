@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+#map {
+  height: 700px;
+  width: 80%;
+  margin: 0 auto;
+}
+
+h1 {
+  font-family: 'Roboto';
+  color: grey;
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Roboto';
+  color: grey;
+  text-align: center;
+}
